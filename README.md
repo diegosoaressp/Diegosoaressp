@@ -1,16 +1,21 @@
-## Hi there 👋
+# Diego Soares  
+**Engenheiro de Dados | Especialista em Cloud & Pipelines Escaláveis**  
+📍 [diegosoasi@gmail.com](mailto:diegosoasi@gmail.com) | [LinkedIn](#) (opcional)  
 
-<!--
-**diegosoaressp/Diegosoaressp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```python
+# "Transformo dados em insights estratégicos com arquiteturas modernas e alta performance"
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Sobre Mim
+Engenheiro de Dados com 8+ anos de experiência em projetos de alto impacto, especializado em:
+
+Arquiteturas multicloud (AWS/Azure/GCP)
+
+Pipeline Orchestration (Airflow, Databricks, Spark)
+
+Otimização de Big Data (Snowflake, Lakehouse)
+
+Automação End-to-End
+
+Foco em escalabilidade, eficiência e qualidade de dados para decisões ágeis.
+
