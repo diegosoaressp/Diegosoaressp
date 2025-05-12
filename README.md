@@ -1,5 +1,9 @@
 # Diego Soares  
-**Engenheiro de Dados | Cloud & Big Data**  
+**Engenheiro de Dados | Cloud & Big Data** 
+
+## 🔧 Sobre mim
+
+Engenheiro de Dados com mais de 8 anos de experiência, especializado em arquiteturas de dados modernas e soluções de processamento e orquestração de dados em nuvem. Tenho atuação em projetos de alto impacto, focando na criação e otimização de pipelines de dados escaláveis e eficientes.
 
 ## 🔧 Habilidades  
 
