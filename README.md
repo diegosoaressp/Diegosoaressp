@@ -30,7 +30,7 @@ Engenheiro de Dados com mais de 8 anos de experiência, especializado em arquite
     title="AWS" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.simpleicons.org/amazonaws/FF9900" 
+    src="https://d1.awsstatic.com/logos/aws-logo-lockups/poweredby-aws-dark-bg.svg" 
 />
 <img 
     align="left" 
