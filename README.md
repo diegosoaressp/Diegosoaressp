@@ -4,7 +4,7 @@
 ## 🔧 Habilidades  
 **Cloud:** AWS (Glue, Redshift, S3), Azure (Data Factory, Synapse), GCP (BigQuery)  
 **Orquestração:** Airflow, Databricks, Prefect  
-**Processamento:** Spark, PySpark, Snowflake, DBT  
+**Processamento:** Spark, PySpark, Pipelines baseados em SQL.  
 **Arquitetura:** Data Lakehouse, Delta Lake, ETL/ELT  
 **Automação:** Python, Terraform, CI/CD  
 
