@@ -30,7 +30,7 @@ Engenheiro de Dados com mais de 8 anos de experiência, especializado em arquite
     title="AWS" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://d1.awsstatic.com/logos/aws-logo-lockups/poweredby-aws-dark-bg.svg" 
+    src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" 
 />
 <img 
     align="left" 
