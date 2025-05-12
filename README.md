@@ -1,21 +1,27 @@
 # Diego Soares  
-**Engenheiro de Dados | Especialista em Cloud & Pipelines Escaláveis**  
-📍 [diegosoasi@gmail.com](mailto:diegosoasi@gmail.com) | [LinkedIn](#) (opcional)  
+**Engenheiro de Dados | Cloud & Big Data Specialist**  
+📧 diegosoasi@gmail.com  
 
-```python
-# "Transformo dados em insights estratégicos com arquiteturas modernas e alta performance"
+## 🔧 Habilidades  
+**Cloud:** AWS (Glue, Redshift, S3), Azure (Data Factory, Synapse), GCP (BigQuery)  
+**Orquestração:** Airflow, Databricks, Prefect  
+**Processamento:** Spark, PySpark, Snowflake, DBT  
+**Arquitetura:** Data Lakehouse, Delta Lake, ETL/ELT  
+**Automação:** Python, Terraform, CI/CD  
 
+## 🚀 Experiência  
+✔️ **8+ anos** construindo pipelines escaláveis (ETL/ELT)  
+✔️ Especialista em **otimização de queries** (Spark/Snowflake)  
+✔️ Arquitetura **multicloud** (AWS + Azure + GCP)  
+✔️ Implementação de **Data Lakehouse** com Delta Lake  
+✔️ Automação de workflows com **Airflow/Databricks**  
 
-🚀 Sobre Mim
-Engenheiro de Dados com 8+ anos de experiência em projetos de alto impacto, especializado em:
+## 📈 Destaques  
+- Migração de ETL legacy para Spark (**+70% eficiência**)  
+- Redução de **30% em custos** com otimização de armazenamento  
+- Pipelines com **>1TB/dia** e SLA >99.9%  
+- Tuning de queries (**+50% velocidade de processamento**)  
 
-Arquiteturas multicloud (AWS/Azure/GCP)
-
-Pipeline Orchestration (Airflow, Databricks, Spark)
-
-Otimização de Big Data (Snowflake, Lakehouse)
-
-Automação End-to-End
-
-Foco em escalabilidade, eficiência e qualidade de dados para decisões ágeis.
-
+## 📫 Contato  
+✉️ diegosoasi@gmail.com  
+🔗 [LinkedIn](#) *(opcional)*  
