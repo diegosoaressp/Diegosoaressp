@@ -1,5 +1,4 @@
 # Diego Soares  
-**Engenheiro de Dados | Cloud & Big Data** 
 
 ## 👨‍💻 Sobre mim
 
