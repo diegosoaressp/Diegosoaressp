@@ -2,11 +2,116 @@
 **Engenheiro de Dados | Cloud & Big Data**  
 
 ## 🔧 Habilidades  
-**Cloud:** AWS (Glue, Redshift, S3), Azure (Data Factory, Synapse), GCP (BigQuery)  
-**Orquestração:** Airflow, Databricks, Prefect  
-**Processamento:** Spark, PySpark, Pipelines baseados em SQL.  
-**Arquitetura:** Data Lakehouse, Delta Lake, ETL/ELT  
-**Automação:** Python, Terraform, CI/CD  
+
+### 🤖 Linguagens e Tecnologias
+
+<img 
+    align="left" 
+    alt="Python"
+    title="Python" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Apache Spark" 
+    title="Apache Spark"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="AWS"
+    title="AWS" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Azure" 
+    title="Azure"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Google Cloud" 
+    title="Google Cloud"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Airflow" 
+    title="Airflow"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apacheairflow/apacheairflow-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Databricks" 
+    title="Databricks"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/databricks/databricks-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Snowflake" 
+    title="Snowflake"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/snowflake/snowflake-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Terraform" 
+    title="Terraform"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Docker" 
+    title="Docker"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Kubernetes" 
+    title="Kubernetes"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="SQL" 
+    title="SQL"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" 
+/>
+
+<br/>
+<br/>
 
 ## 🚀 Experiência  
 ✔️ **8+ anos** construindo pipelines escaláveis (ETL/ELT)  
