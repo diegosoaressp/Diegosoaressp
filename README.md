@@ -62,7 +62,7 @@ Engenheiro de Dados com mais de 8 anos de experiência, especializado em arquite
     title="Databricks"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://www.databricks.com/wp-content/uploads/2021/09/Databricks_Logo_icon_blue.svg" 
+    src="https://cdn.simpleicons.org/databricks/FF3621" 
 />
 <img 
     align="left" 
