@@ -23,4 +23,4 @@
 
 ## 📫 Contato  
 ✉️ diegosoasi@gmail.com  
-🔗 [LinkedIn](#) *(opcional)*  
+🔗 [LinkedIn](https://www.linkedin.com/in/diego-soares-8b20798b/)
