@@ -62,15 +62,7 @@ Engenheiro de Dados com mais de 8 anos de experiência, especializado em arquite
     title="Databricks"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/databricks/databricks-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Snowflake" 
-    title="Snowflake"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/snowflake/snowflake-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/databricks/databricks-original-wordmark.svg" 
 />
 <img 
     align="left" 
