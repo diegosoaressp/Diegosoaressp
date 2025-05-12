@@ -1,6 +1,5 @@
 # Diego Soares  
-**Engenheiro de Dados | Cloud & Big Data Specialist**  
-📧 diegosoasi@gmail.com  
+**Engenheiro de Dados | Cloud & Big Data**  
 
 ## 🔧 Habilidades  
 **Cloud:** AWS (Glue, Redshift, S3), Azure (Data Factory, Synapse), GCP (BigQuery)  
