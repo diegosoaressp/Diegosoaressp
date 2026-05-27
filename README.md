@@ -2,7 +2,12 @@
 
 ## 👨‍💻 Sobre mim
 
-Engenheiro de Dados com mais de 8 anos de experiência, especializado em arquiteturas de dados modernas e soluções de processamento e orquestração de dados em nuvem. Tenho atuação em projetos de alto impacto, focando na criação e otimização de pipelines de dados escaláveis e eficientes.
+Engenheiro de Dados com mais de 10 anos de experiência na construção de arquiteturas modernas, pipelines de alta performance e
+soluções multicloud que reduzem custos, aumentam a eficiência operacional e ampliam a confiabilidade dos fluxos de dados
+corporativos.
+Sólida expertise em ETL/ELT, orquestração de dados, arquitetura Lakehouse e integração de sistemas distribuídos. Atualmente se
+aprofundando em Inteligência Artificial, com foco em evoluir para o papel de Engenheiro de IA — combinando fundamentos sólidos
+em dados com as disciplinas emergentes de AI Engineering e sistemas inteligentes em produção.
 
 ##  Habilidades  
 
