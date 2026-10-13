@@ -115,7 +115,7 @@ Sólida expertise em ETL/ELT, orquestração de dados, arquitetura Lakehouse e i
 🔗 **[Entendendo Bancos de Dados: ACID vs CAP - Uma Comparação Profunda](https://medium.com/@diegosoasi/entendendo-bancos-de-dados-acid-vs-cap-uma-comparação-profunda-52845ac49346)**  
 
 ## 🚀 Experiência  
-✔️ **8+ anos** construindo pipelines escaláveis (ETL/ELT)  
+✔️ **10+ anos** construindo pipelines escaláveis (ETL/ELT)  
 ✔️ Especialista em **otimização de queries** (Spark/Snowflake)  
 ✔️ Arquitetura **multicloud** (AWS + Azure + GCP)  
 ✔️ Implementação de **Data Lakehouse** com Delta Lake  
